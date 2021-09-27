@@ -2,6 +2,7 @@ minimum 23 / target 30
 
 manifests - acivity(화면에 나오는 로직담는 컨테이너) 나 서비스(백그라운드 로직) 추가
 
+firebase의 google-services.json 다운받아서 프로젝트 app에 넣어주기
 C:\Users\N-231\.android에서 주소창에 cmd쳐서 SHA1 값 firebase 프로젝트 설정 - 디지털 지문 추가 해주기 
 keytool -list -v -keystore debug.keystore -alias androiddebugkey -storepass android -keypass android
 
