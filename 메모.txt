@@ -1,0 +1,9 @@
+minimum 23 / target 30
+
+manifests - acivity(화면에 나오는 로직담는 컨테이너) 나 서비스(백그라운드 로직) 추가
+
+C:\Users\N-231\.android에서 주소창에 cmd쳐서 SHA1 값 firebase 프로젝트 설정 - 디지털 지문 추가 해주기 
+keytool -list -v -keystore debug.keystore -alias androiddebugkey -storepass android -keypass android
+
+SHA1: 8C:3F:CA:08:BA:B6:C8:EA:B9:C4:4F:54:C2:D4:15:EB:22:E6:24:E7
+SHA256: 4E:7C:43:3B:8E:C2:60:3B:26:0E:3F:FB:4C:00:A3:42:FC:23:71:E0:DB:C2:9F:83:0D:E1:72:F6:45:80:F3:68

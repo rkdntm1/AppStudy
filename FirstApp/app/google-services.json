@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949492837007",
+    "project_id": "myfirstapp-c4170",
+    "storage_bucket": "myfirstapp-c4170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949492837007:android:be57f6d2f54ad76dfd5efa",
+        "android_client_info": {
+          "package_name": "net.e4net.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949492837007-f129ev7c8fcr8aa7bb1s33f4f852aadd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDib1GRb-TsIY0vgsfKtKW846hB-oz7Hv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949492837007-f129ev7c8fcr8aa7bb1s33f4f852aadd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
